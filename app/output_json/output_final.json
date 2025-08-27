@@ -1,0 +1,35 @@
+{
+  "rula_upper_arm_score": 1,
+  "rula_lower_arm_score": 2,
+  "rula_wrist_score": 2,
+  "rula_neck_score": 2,
+  "rula_trunk_score": 2,
+  "rula_leg_score": 1,
+  "reba_upper_arm_score": 1,
+  "reba_lower_arm_score": 2,
+  "reba_wrist_score": 1,
+  "reba_neck_score": 1,
+  "reba_trunk_score": 2,
+  "reba_leg_score": 1,
+  "rula_final_score": 2,
+  "reba_final_score": 1,
+  "feedback": "Sudut siku jangan terlalu lurus. Sebaiknya lebih rileks.",
+  "summary": {
+    "rula_summary": "Postur dapat diterima (acceptable posture).",
+    "reba_summary": "Risiko postur dapat diabaikan (Negligible Risk)."
+  },
+  "details": {
+    "sudut_lutut": 80.41359843131592,
+    "sudut_siku": 31.063688312587857,
+    "sudut_leher": 16.95704260886772,
+    "sudut_punggung": 2.1497979391900928,
+    "sudut_pergelangan": 5.899617737953489,
+    "sudut_bahu": 31.18601546791865,
+    "adjust_shoulder_raised": 0,
+    "adjust_arm_supported": -1,
+    "adjust_neck_twist": 0,
+    "adjust_trunk_twist": 0,
+    "adjust_legs_feet": 1,
+    "adjust_wrist_twist": 1
+  }
+}
