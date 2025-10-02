@@ -13,11 +13,6 @@
   "reba_leg_score": 3,
   "rula_final_score": 8,
   "reba_final_score": 9,
-  "feedback": "Sudut siku jangan terlalu lurus. Sebaiknya lebih rileks.",
-  "summary": {
-    "rula_summary": "Postur dapat diterima (acceptable posture).",
-    "reba_summary": "Risiko postur dapat diabaikan (Negligible Risk)."
-  },
   "details": {
     "sudut_lutut": 45,
     "sudut_siku": 31.43,

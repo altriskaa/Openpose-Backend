@@ -1,0 +1,30 @@
+{
+  "rula_upper_arm_score": 1,
+  "rula_lower_arm_score": 2,
+  "rula_wrist_score": 1,
+  "rula_neck_score": 1,
+  "rula_trunk_score": 1,
+  "rula_leg_score": 1,
+  "reba_upper_arm_score": 1,
+  "reba_lower_arm_score": 2,
+  "reba_wrist_score": 1,
+  "reba_neck_score": 1,
+  "reba_trunk_score": 1,
+  "reba_leg_score": 1,
+  "rula_final_score": 1,
+  "reba_final_score": 1,
+  "details": {
+    "sudut_lutut": 180,
+    "sudut_siku": 55,
+    "sudut_leher": 180,
+    "sudut_punggung": 180,
+    "sudut_pergelangan": 2,
+    "sudut_bahu": 42,
+    "adjust_shoulder_raised": 0,
+    "adjust_arm_supported": 1,
+    "adjust_neck_twist": 0,
+    "adjust_trunk_twist": 0,
+    "adjust_legs_feet": 1,
+    "adjust_wrist_twist": 0
+  }
+}
