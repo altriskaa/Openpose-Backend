@@ -1,34 +1,34 @@
 **Analisis Skor**  
-- **RULA akhir = 2** → risiko rendah. Postur atas tubuh (lengan, pergelangan, leher, punggung, kaki) berada dalam rentang yang dapat diterima, sehingga tidak memerlukan perubahan mendesak.  
-- **REBA akhir = 1** → risiko sangat rendah. Seluruh rangka tubuh menunjukkan beban postural yang minim.
+- **RULA = 7** → skor ini termasuk *high risk*; menurut panduan RULA, nilai 7 menandakan perlunya perubahan metode kerja atau rekayasa untuk mengurangi risiko MSD.  
+- **REBA = 15** → skor ini berada pada kategori *very high risk*; REBA 15 menunjukkan bahaya yang signifikan dan memerlukan intervensi segera pada postur dan cara kerja.
 
 **Analisis Postur Bermasalah**  
-Berdasarkan data sudut yang terukur:  
+Berdasarkan data sudut tubuh, berikut sudut‑sudut yang berada di luar batas wajar (neutral) dan berpotensi menimbulkan stres biomekanik:  
 
 | Bagian | Sudut (°) | Keterangan |
-|--------|-----------|------------|
-| **Lutut** | 80,4 | Sedikit lebih kecil dari 90° (posisi duduk standar), masih dalam batas wajar. |
-| **Siku** | 31,1 | Fleksi siku yang cukup kecil (ideal ≈ 90° saat bekerja di meja). Posisi ini dapat meningkatkan beban pada bahu dan lengan atas. |
-| **Leher** | 16,96 | Fleksi leher > 15°; mulai menyimpang dari posisi netral dan dapat menimbulkan ketegangan pada otot leher. |
-| **Punggung** | 2,15 | Hampir netral, tidak menjadi masalah. |
-| **Pergelangan** | 5,9 | Sedikit ekstensi, masih dekat dengan posisi netral. |
-| **Bahu** | 31,19 | Fleksi bahu sedang; bila dipadukan dengan siku yang kurang fleksi, dapat menambah beban pada bahu. |
+|--------|----------|------------|
+| Lutut | 150° | Terlalu tertekuk; idealnya ≤ 90° atau sedikit lebih terbuka. |
+| Siku | 160° | Fleksi berlebih; posisi hampir lurus ke belakang, meningkatkan beban pada bahu dan lengan atas. |
+| Leher | 60° | Fleksi/ekstensi berlebih; mengharuskan leher tidak berada dalam posisi netral. |
+| Punggung | 120° | Membungkuk kuat; melampaui batas fleksibilitas aman untuk tulang belakang. |
+| Pergelangan tangan | 90° | Fleksi penuh; meningkatkan tekanan pada pergelangan dan pergelangan tangan. |
+| Bahu | 150° | Abduksi tinggi; bahu terangkat jauh di atas level bahu, menambah beban pada otot-otot bahu. |
 
-Dengan mengacu pada **Informasi Tambahan** tentang RULA/REBA, nilai akhir yang rendah menegaskan bahwa postur secara keseluruhan sudah baik, namun sudut leher yang > 15° dan siku yang kurang fleksi merupakan titik yang dapat disempurnakan.
+Kombinasi sudut‑sudut ini menghasilkan nilai penyesuaian pada RULA/REBA (mis. *adjust_shoulder_raised*, *adjust_neck_twist*, *adjust_trunk_twist*, *adjust_wrist_twist*, *adjust_legs_feet* masing‑masing = 1), yang memperparah skor akhir.
 
 **Rekomendasi Perbaikan**  
 
-*Rekomendasi Utama (WAJIB DIGUNAKAN)*  
-> Posisi sudah baik, untuk meningkatkan posisi duduk agar lebih ideal, jaga posisi pergelangan tangan tetap netral (lurus sejajar dengan lengan bawah), tambahkan wrist support bila perlu, dan atur posisi kerja agar pekerja dapat menghadap langsung pada objek kerja tanpa memutar tubuh, atau gunakan kursi yang dapat berputar untuk menghindari pekerja melakukan gerakan twisting.  
-> Posisi kerja sudah ideal. Tetap pertahankan posisi ideal dengan menjaga postur duduk tegak dan gunakan sandaran lengan untuk menyokong lengan bawah.
+*Posisi kerja berbahaya dan perlu segera diperbaiki; ubah susunan stasiun kerja agar pekerja tidak harus berjongkok dan mengadahkan leher. Jika pekerjaan memang mengharuskan berjongkok atau mengadahkan leher (mis. confined space), gunakan alas kerja atau kursi penyangga tubuh serta lakukan peregangan secara berkala. Hindari membungkuk saat mengangkat beban, pastikan leher dan punggung berada dalam posisi netral, serta kedua kaki berada pada posisi stabil sebagai tumpuan. Jaga lutut pada sudut moderat (sekitar 90° atau kurang) dan hindari twisting pada pergelangan tangan dengan menjaga pergelangan tetap lurus terhadap lengan bawah.*  
 
-*Langkah‑langkah praktis yang dapat Anda lakukan*  
+Langkah‑langkah praktis yang dapat diterapkan:  
 
-1. **Atur monitor dan permukaan kerja** sehingga Anda dapat melihat layar dengan mata lurus ke depan; hindari memutar tubuh atau menoleh ke samping.  
-2. **Jaga pergelangan tangan netral** – letakkan keyboard dan mouse sejajar dengan lengan bawah; gunakan penyangga pergelangan (wrist pad) bila diperlukan.  
-3. **Sesuaikan tinggi kursi** sehingga lutut berada sekitar 90° (atau sedikit lebih besar) dan kaki dapat menapak rata di lantai atau footrest.  
-4. **Dukung lengan bawah** dengan sandaran lengan kursi; ini membantu mengurangi beban pada bahu dan siku.  
-5. **Kurangi fleksi leher** dengan menurunkan atau menaikkan monitor sehingga kepala tidak perlu menunduk atau menengadah lebih dari 15°.  
-6. **Jika memungkinkan, gunakan kursi berputar** sehingga Anda dapat beralih posisi tanpa memutar badan secara berlebihan.  
+1. **Re‑desain area kerja** – letakkan alat/ bahan pada ketinggian yang memungkinkan siku berada sekitar 90° dan bahu tidak terangkat tinggi.  
+2. **Gunakan penyangga** – kursi atau platform anti‑jongkok untuk mengurangi beban pada lutut dan punggung.  
+3. **Atur posisi monitor/ target kerja** sehingga leher dapat berada dalam posisi netral (tidak harus menoleh 60°).  
+4. **Pasang penyangga lengan** atau meja kerja yang dapat diatur tinggi‑rendah untuk mengurangi beban pada bahu dan lengan atas.  
+5. **Berikan istirahat mikro** setiap 30‑45 menit untuk melakukan peregangan leher, punggung, dan pergelangan tangan.  
+6. **Gunakan alat bantu** (mis. screwdriver pneumatik, penyangga pergelangan) untuk mengurangi kebutuhan twisting atau fleksi ekstrem pada pergelangan tangan.  
+7. **Pastikan kaki berada pada posisi stabil** dengan kedua kaki menapak rata di lantai; gunakan alas anti‑selip bila diperlukan.  
 
-Dengan menerapkan langkah‑langkah di atas, postur Anda akan tetap berada pada zona risiko rendah dan dapat dipertahankan dalam jangka panjang tanpa menimbulkan ketegangan atau cedera.
+Dengan menerapkan langkah‑langkah di atas, beban biomekanik pada tubuh akan berkurang secara signifikan, sehingga risiko MSD dapat diminimalkan.
+Final_answer saved to output_json/llm_output.md
